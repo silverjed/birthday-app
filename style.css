@@ -1,0 +1,25 @@
+head { 
+    <link type="image/png" sizes="32x32" rel="icon" href="assets/cake32x32.ico"> 
+    <link rel="stylesheet" href="style.css">
+}
+
+body {
+    background-image: url(../../../Pictures/85341dcee13a8c786c6673d2a152283a.jpg);
+    font-family: cursive;
+}
+    div {
+    width: 60%;  
+    display:inline-block;
+}
+
+h1 {
+    color: #000000; 
+    font-family: fantasy;
+}
+div {
+    color: black;
+    background-color: aliceblue;
+}
+table {
+    width: 10%;
+}
