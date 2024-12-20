@@ -1,13 +1,10 @@
-head { 
-    <link type="image/png" sizes="32x32" rel="icon" href="assets/cake32x32.ico"> 
-    <link rel="stylesheet" href="style.css">
-}
-
+/* Begining of CSS Files
+Authors: SiverJed & eastermukora*/
 body {
     background-image: url(../../../Pictures/85341dcee13a8c786c6673d2a152283a.jpg);
     font-family: cursive;
 }
-    div {
+div {
     width: 60%;  
     display:inline-block;
 }
